@@ -32,6 +32,11 @@
       <groupId>${project.groupId}</groupId>
       <artifactId>Formulaire_javaV3-metier</artifactId>
     </dependency>
+	<dependency>
+		<groupId>mysql</groupId>
+		<artifactId>mysql-connector-java</artifactId>
+		<version>8.0.20</version>
+</dependency>
   </dependencies>
 
   <build>
